@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen           ****** TODO: CHANGE THIS!! ******
-# username: heggens             ****** TODO: CHANGE THIS!! *****
+# Author: Abraham Moreno, Concepta Njolima
+# username: ConceptaNjolima, morenoa2
 #
 # Purpose: Designed to compute the total chocolate desired by the user
 #
